@@ -1,6 +1,16 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obj_checkpoint","order":3,"path":"objects/obj_checkpoint/obj_checkpoint.yy",},
+    {"name":"obj_Deathpit","order":2,"path":"objects/obj_Deathpit/obj_Deathpit.yy",},
+    {"name":"owall","order":1,"path":"objects/owall/owall.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
     {"name":"sInvisibleWall","order":1,"path":"sprites/sInvisibleWall/sInvisibleWall.yy",},
+    {"name":"sPlayer","order":3,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"sPlayerA","order":4,"path":"sprites/sPlayerA/sPlayerA.yy",},
+    {"name":"sPlayerR","order":5,"path":"sprites/sPlayerR/sPlayerR.yy",},
+    {"name":"Sprite3","order":2,"path":"sprites/Sprite3/Sprite3.yy",},
+    {"name":"Sprite6","order":6,"path":"sprites/Sprite6/Sprite6.yy",},
+    {"name":"Sprite7","order":7,"path":"sprites/Sprite7/Sprite7.yy",},
   ],
 }
